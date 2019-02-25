@@ -1,0 +1,11 @@
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\bin\Debug\AuthConsoleApp.exe.config
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\bin\Debug\AuthConsoleApp.exe
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\bin\Debug\AuthConsoleApp.pdb
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\obj\Debug\AuthConsoleApp.csprojAssemblyReference.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\obj\Debug\AuthConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\obj\Debug\AuthConsoleApp.csproj.CopyComplete
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\obj\Debug\AuthConsoleApp.exe
+C:\Users\serda\source\repos\AuthenticationApp\AuthConsoleApp\obj\Debug\AuthConsoleApp.pdb

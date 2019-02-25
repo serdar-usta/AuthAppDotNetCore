@@ -1,0 +1,14 @@
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\bin\Debug\netcoreapp2.1\AuthenticationApp.deps.json
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\bin\Debug\netcoreapp2.1\AuthenticationApp.runtimeconfig.json
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\bin\Debug\netcoreapp2.1\AuthenticationApp.runtimeconfig.dev.json
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\bin\Debug\netcoreapp2.1\AuthenticationApp.dll
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\bin\Debug\netcoreapp2.1\AuthenticationApp.pdb
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.csprojAssemblyReference.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.RazorAssemblyInfo.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.RazorAssemblyInfo.cs
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.AssemblyInfoInputs.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.AssemblyInfo.cs
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.RazorTargetAssemblyInfo.cache
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.dll
+C:\Users\serda\source\repos\AuthenticationApp\AuthenticationApp\obj\Debug\netcoreapp2.1\AuthenticationApp.pdb
